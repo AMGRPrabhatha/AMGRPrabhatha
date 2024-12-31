@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasith Abeywickrama</h1>
 <h3 align="center">Bsc (hons) in Software Engineering at NSBM Green University | UI/UX Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amgrprabhatha&label=Profile%20views&color=0e75b6&style=flat" alt="amgrprabhatha" /> </p>
+
 
 - 🌱 I’m currently learning **react Framework..**
 
