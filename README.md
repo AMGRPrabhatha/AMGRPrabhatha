@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **react Framework..**
+- 🌱 I’m currently learning **node js..**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/rp156](https://www.behance.net/rp156)
 
